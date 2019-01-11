@@ -1,0 +1,30 @@
+{
+  "name": "android_picture_to_flutter",
+  "version": "1.0.0",
+  "description": "just restructure pictures",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "build-w": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssddi456/android_picture_to_flutter.git"
+  },
+  "bin": {
+    "android_picture_to_fluter": "./dist/cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssddi456/android_picture_to_flutter/issues"
+  },
+  "homepage": "https://github.com/ssddi456/android_picture_to_flutter#readme",
+  "devDependencies": {
+    "@types/fs-extra": "^5.0.4",
+    "@types/node": "^10.12.18"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  }
+}
