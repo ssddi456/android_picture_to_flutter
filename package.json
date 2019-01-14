@@ -12,7 +12,7 @@
     "url": "git+https://github.com/ssddi456/android_picture_to_flutter.git"
   },
   "bin": {
-    "android_picture_to_fluter": "./dist/cli.js"
+    "android_picture_to_flutter": "./dist/cli.js"
   },
   "author": "",
   "license": "ISC",
